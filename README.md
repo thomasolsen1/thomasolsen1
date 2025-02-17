@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning new technologies and improving my coding skills
 
 ## GitHub Stats
-![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasolsen1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasolsen1&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasolsen1&layout=compact&theme=radical)
