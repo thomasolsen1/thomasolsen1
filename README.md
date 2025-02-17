@@ -7,10 +7,10 @@
 ## GitHub Statistics
 
 ### Overview
-![Thomas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasolsen1&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Thomas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasolsen1&theme=radical&show_icons=true&hide_border=true&count_private=true&card_width=400)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasolsen1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasolsen1&layout=donut&theme=radical&card_width=400)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com)
