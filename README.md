@@ -9,9 +9,6 @@
 ### Overview
 ![Thomas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasolsen1&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-### Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thomasolsen1&theme=radical&hide_border=true)
-
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasolsen1&layout=compact&theme=radical)
 
