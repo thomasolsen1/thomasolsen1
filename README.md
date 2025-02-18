@@ -13,7 +13,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasolsen1&layout=donut&theme=radical&card_width=400)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com)
+- [LinkedIn](https://www.linkedin.com/in/thomas-olsen-9b127b264/)
 
 ## Featured Projects
 
