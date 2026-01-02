@@ -11,8 +11,8 @@ I'm Thomas Olsen, student at DTU (industrial engineering) and working at VIVE.
 
 ## 🚀 Featured Projects
 - [**Chat**](https://github.com/thomasolsen1/Chat): Automated summarization of study details using GPT-3.5-turbo. (R, OpenAI API)
-- [**AnotherProject**](https://github.com/thomasolsen1/AnotherProject): Awesome web scraper for data extraction.
-
+- [**AIscreenR**](https://github.com/MikkelVembye/AIscreenR): R package leveraging OpenAI’s GPT API for semi-automated screening of titles and abstracts in systematic reviews. Enables reviewers to use large language models as reliable “second screeners” or to reduce human workload, supporting high-quality evidence synthesis.
+  
 ## 🌐 Find Me
 - [LinkedIn](https://www.linkedin.com/in/thomas-olsen-9b127b264/)
 - [Email](thomasolsen123@hotmail.com)
